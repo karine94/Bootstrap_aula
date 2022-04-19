@@ -1,0 +1,35 @@
+body{
+    font: 20px arial, sans-serif;
+}
+
+
+.navbar {
+    background: #FFEBEE;
+}
+.navbar-brand {
+    margin-left: 3%;
+}
+
+.margin {
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+
+h3{
+    padding-bottom: 2%;
+    margin-bottom: 2%;
+}
+h6 {
+    padding-top: 3%;
+    text-align: justify center;
+    margin-left: 15%;
+    margin-right: 15%;
+    line-height: 20pt;
+}
+h5{
+    margin-top: 3%;
+}
+.bg-footer {
+    background: black
+}
+
